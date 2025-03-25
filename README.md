@@ -285,7 +285,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 | [![Mr Ghost Stats](https://github-readme-stats.vercel.app/api?username=MrGhostsx&show_icons=true&locale=en)](https://github.com/MrGhostsx) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrGhostsx&)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGhostsx&layout=compact&theme=buefy&hide_border=true)](https://github.com/MrGhostsx/github-readme-stats) |
 
 ### Top Repositories
-| Micky Streamer | Top MoviesBot | String SessionBot |
+| Micky Streamer | File Store | String SessionBot |
 |--------|--------|--------|
 | [![Micky Streamer](https://github-readme-stats.vercel.app/api/pin/?username=MrGhostsx&repo=Micky-Streamer-Bot-2.0)](https://github.com/MrGhostsx/Micky-Streamer-Bot-2.0) | [![File Store](https://github-readme-stats.vercel.app/api/pin/?username=MrGhostsx&repo=FileStore)](https://github.com/MrGhostsx/FileStore) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION)](https://github.com/techyshreyansh/STRING-SESSION) |
 
