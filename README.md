@@ -311,7 +311,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
     <summary><b>Detailed Contribution Info:</b></summary>
 <tr>
   <td>
-    <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@refs/heads/main/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
 </details>
