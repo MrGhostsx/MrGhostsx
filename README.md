@@ -1,10 +1,10 @@
-![MasterHead](https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/banner.png)
+![MasterHead](https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/banner.png)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++Tech+Shreyansh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++Mr+Ghost+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/Panda.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechyShreyansh&label=Profile%20views&color=0e75b6&style=flat" alt="TechyShreyansh" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/Panda.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrGhostsx&label=Profile%20views&color=0e75b6&style=flat" alt="MrGhostsx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_rai_shreyansh_" target="blank"><img src="https://img.shields.io/twitter/follow/_rai_shreyansh_?logo=twitter&style=for-the-badge" alt="_rai_shreyansh_" /></a> </p>
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://techyshreyansh.github.io/Resume/).
 
-- 📝 I regularly write articles on [Tech-Shreyansh](tehyshreyansh.com).
+- 📝 I regularly write articles on [Tech-Shreyansh](micoguides.blogspot.com).
 
 - 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting** any Tech realed Stuff.
 
@@ -189,10 +189,10 @@
      <h3>Software & Tools</h3>
     <!-- Data Visualization Tools -->
        <a href="https://www.adobe.com/acrobat/acrobat-pro.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/free-adobe-acrobat-pro-icon-down.png" alt="AdobeAcrobatPro" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/free-adobe-acrobat-pro-icon-down.png" alt="AdobeAcrobatPro" width="40" height="40"/>
         </a>
         <a href="https://www.httrack.com/page/2/en/index.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/httrack-website-copier-logo.png" alt="HTTrack" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/httrack-website-copier-logo.png" alt="HTTrack" width="40" height="40"/>
         </a>
     </div>
     <br/>
@@ -205,10 +205,10 @@
             <img src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" width="40" height="40"/>
         </a> 
         <a href="https://winmerge.org/?lang=en" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/WinMerge1.png" alt="WinMerge" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/WinMerge1.png" alt="WinMerge" width="40" height="40"/>
         </a> 
          <a href="https://xdaforums.com/t/closed-discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/apk-easy-tool.png" alt="ApkEasyTool" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/apk-easy-tool.png" alt="ApkEasyTool" width="40" height="40"/>
         </a> 
     </div>
     <br/>
@@ -252,10 +252,10 @@
             <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
                <a href="https://www.brave.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/opera-icon.svg" alt="Opera" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@refs/heads/main/Images/opera-icon.svg" alt="Opera" width="40" height="40"/>
         </a>
                <a href="https://www.brave.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@refs/heads/main/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
         </a>
      </div>
      <h3>Most Used Operating System</h3>
@@ -267,30 +267,30 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/linux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@refs/heads/main/Images/linux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>
         </a>
        <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/kalilinux-svgrepo-com.svg" alt="Kali" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@refs/heads/main/Images/kalilinux-svgrepo-com.svg" alt="Kali" width="40" height="40"/>
         </a>
     </div>
 </p>
 
-<img align="right" width="150" height="150" src="https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
+<img align="right" width="150" height="150" src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts About Me:
 I've Worked for many users in the past. ⚡ I love playing video games and you'll find me on my [Telegram Channel](http://telegram.me/Tech_Shreyansh) and live coding! I'm into Hacking, App Modding, and Web Designing. I also enjoy watching Movies and Cartoons, Finding bugs, making Something new, and Solving errors in Code. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my [Telegram Chat](http://telegram.me/Tech_Shreyansh2) during a live. Or DM me on Instagram or Twitter. Let's connect!
 
 ### Metrics
 | Stats | Streak | Language |
 |--------|--------|--------|
-| [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&locale=en)](https://github.com/techyshreyansh) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techyshreyansh&)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=buefy&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
+| [![Mr Ghost Stats](https://github-readme-stats.vercel.app/api?username=MrGhostsx&show_icons=true&locale=en)](https://github.com/MrGhostsx) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrGhostsx&)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGhostsx&layout=compact&theme=buefy&hide_border=true)](https://github.com/MrGhostsx/github-readme-stats) |
 
 ### Top Repositories
-| Moon UserBot | Top MoviesBot | String SessionBot |
+| Micky Streamer | Top MoviesBot | String SessionBot |
 |--------|--------|--------|
-| [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=The-MoonTg-project&repo=Moon-Userbot)](https://github.com/The-MoonTg-project/Moon-Userbot) | [![Top MoviesBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Top-Movie-Bot)](https://github.com/techyshreyansh/Top-Movie-Bot) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION)](https://github.com/techyshreyansh/STRING-SESSION) |
+| [![Micky Streamer](https://github-readme-stats.vercel.app/api/pin/?username=MrGhostsx&repo=Micky-Streamer-Bot-2.0)](https://github.com/MrGhostsx/Micky-Streamer-Bot-2.0) | [![File Store](https://github-readme-stats.vercel.app/api/pin/?username=MrGhostsx&repo=FileStore)](https://github.com/MrGhostsx/FileStore) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION)](https://github.com/techyshreyansh/STRING-SESSION) |
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrGhostsx&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details> 
   <summary><b>Latest YouTube Videos</b></summary>
@@ -311,7 +311,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
     <summary><b>Detailed Contribution Info:</b></summary>
 <tr>
   <td>
-    <img src="https://cdn.jsdelivr.net/gh/techyshreyansh/techyshreyansh@main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
 </details>
