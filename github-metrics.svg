@@ -36,8 +36,8 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -454,13 +454,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                2
-                                <div class="bottom">May</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 3
+                                <div class="bottom">May</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -521,6 +516,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                16
                             </div>
                         </div>
                     </section>
@@ -530,13 +530,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                2
-                                <div class="bottom">May</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 3
+                                <div class="bottom">May</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -597,6 +592,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                16
                             </div>
                         </div>
                     </section>
@@ -626,8 +626,8 @@
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAwEAABBAAEBAMHBQEAAAAAAAABAgMEEQAFEiETMUFRBiKBBxQWIzJhkRUzQnHB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAjEQABBAAEBwAAAAAAAAAAAAABAAIDERMhMaEEEjJhgcHw/9oADAMBAAIRAxEAPwDjUs5ecthtwXqkOKQlzhu1e4B/yq6YBGjPfr4JfbbSy6hopbRrDXm08rG1/n1w8zJvM2/BWXOvQCjL9QQ3K5tlSBvX32PbkeeF0B/KsyzyJCfS7FDr67nNhfFVrFIRQvka6f8Ad0lCZYRJwcgGRvYBWXtFj5euJBfiIkLmxCI7rrjAQp2wsECuYGg0SNvXAHPZ1GpvV4gy5t3QOK1JYJU2vqgGvMByv7HCuYpqLlLuV5i9KmTWZqGx7wFuU2g0aANgb9/5bVeD/EzcclK8wkJBA0pDLoCUhISAPmcvLhh5BdblGYx4iqLI3ssU/OWpnhgQGy6ttttFKLRAXWugfmaUgBY3rv3NykyTociJSlTzjSm3C62qr236f1v9sNmfEmbM5ew2mYotoQG0JKU0lPl2G2MMvNp09t1Mp8rGyfoTy/GAOHMR2VVr8KFxA6tfq9qtyKJHmKbzCTNlNL4K21Mxf3FEi719aBB77DpgM/4bmSVuO5vm5VqVtxCNNqJ0+l16YM6hvKPDhnMtpePD1cF6yi01R2o9e+F6sxfcbaUkR0Ap+n3dtdbnqpJP5ODvap8cuGKIvyV//9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwgABAUG/8QALBAAAQMDAgIJBQAAAAAAAAAAAQIDBAAFEQYhEkEHCBMUFTEyUXEiQkNh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhIv/aAAwDAQACEQMRAD8AllppTzobbSVKJwAOdekc02iK2jvcgh5Qz2aB5VzbA4rxGM0yGm3nXUth5w7IycZ/XzVOaV0gzaYsnvcJuQ+7FbcEyQUrIdP48DdONt8YqXJtZD5LMapXHo3JXmxTHdWBkoBxnFatKfTJGbjuxu3djieUIS6w0riwRx5OSAceQz/KLaepu13J7V4bUyq80poa4Wzoosz8KZPduL7LciQwX+EYd3SBkHHDkfO9SImrI6CbzIvmk7l3pLbaUoi4SwCgbk558+dFkDaxKSU+gYVdYrRFtsEe2zrc649M4izOU46VqUrAIWR9u/EPagunfrKXqX4rLtgLYjF/jV9OVKJHufL0j04zzzQRW6d8CFZ6Z//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMI/8QAJBAAAgEEAQQDAQEAAAAAAAAAAQIDAAQFETEGEiFBIlFxFDL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/APS9Zrm9tLRkW6uYYS3+RI4Xf5utNQHURuLLOxPcs4inuPDwt2kxkaPn7A9D78bLbWjjzOmvFpe23B6VzbXUN0jtbyLIFYxkqd6I5FdqV9NwvDiUV4jEDJIyRkaKxmQlQR6+JHj1TSs9BnSEwusiynPYqfJRoLfKXtgUVxu1Kju3rnYPGvH7SV8Bl5Fj3mskjrIZD2zpp9+j8ePzVWFFJPRsPS2QaNEk6gzUZXZMv9AJk40CNaHHoe6sqKKIv//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwgABAUG/8QALBAAAQMDAgIJBQAAAAAAAAAAAQIDBAAFEQYhEkEHCBMUFTEyUXEiQkNh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhIv/aAAwDAQACEQMRAD8AllppTzobbSVKJwAOdekc02iK2jvcgh5Qz2aB5VzbA4rxGM0yGm3nXUth5w7IycZ/XzVOaV0gzaYsnvcJuQ+7FbcEyQUrIdP48DdONt8YqXJtZD5LMapXHo3JXmxTHdWBkoBxnFatKfTJGbjuxu3djieUIS6w0riwRx5OSAceQz/KLaepu13J7V4bUyq80poa4Wzoosz8KZPduL7LciQwX+EYd3SBkHHDkfO9SImrI6CbzIvmk7l3pLbaUoi4SwCgbk558+dFkDaxKSU+gYVdYrRFtsEe2zrc649M4izOU46VqUrAIWR9u/EPagunfrKXqX4rLtgLYjF/jV9OVKJHufL0j04zzzQRW6d8CFZ6Z//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
