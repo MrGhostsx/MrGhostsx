@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![MasterHead](https://cdn.jsdelivr.net/gh/MrGhostsx/MrGhostsx@main/Images/banner.png)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++Mr+Ghost+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
