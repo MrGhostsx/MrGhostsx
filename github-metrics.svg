@@ -31,17 +31,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ferisystem/WhisperBot</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Send Anonymous messages and Whisper messages to people on Telegram app</div>
@@ -498,7 +498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShivangKakkar/WhisperBot</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Telegram Whisper Bot https://t.me/StarkBots</div>
@@ -551,7 +551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Reeshuxd/WhisperBot</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Telegram Bot to send messages secretly!</div>
@@ -613,13 +613,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                7
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 8
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -681,6 +676,11 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 20
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                21
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -689,13 +689,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                7
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 8
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -757,6 +752,11 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 20
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                21
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -770,8 +770,8 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAL/xAAtEAABAwMCAwYHAQAAAAAAAAABAgMEAAURBiESQVEHFDFhgbETIzRDYnKRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAxIhMf/aAAwDAQACEQMRAD8AbJDrceO488rgbbSVqJ5AbmpBcdWa2u7gmWOE5GtROWlNMh0qHVex9qrV0jGZa5kYEAvMqbGfMEVP+zsyITUS3m4FvjS42lgsZLTg6nHjnrUQ4bBx12HOz3Uzt9jPxp/B3+NgqKduIdccjnam6hMCzpj3x+4vSEPzHI7cd3hbCM4JPGQOZyB6UWoKW9ItzGKOr9e2nTQW044ZU8D6Zo7j9zy9/KpZZtVOyr6/dHGoaC46SUuEIQ3nn5/7SzOR369FyUVOLddUtZJ8Tk1zdozTEtPw04y2g1RWh8jhjKHcdSS7jcBJsnesN4bDzbZ+Ycbr9c4weQFGbZrK5JiJE6QwHs/cj74/qfap/priTGcShxxIW2c4P5VnVqCzvTdA8Jmf/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAwEAABBAAEBAMHBQEAAAAAAAABAgMEEQAFEiETMUFRBiKBBxQWIzJhkRUzQnHB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAjEQABBAAEBwAAAAAAAAAAAAABAAIDERMhMaEEEjJhgcHw/9oADAMBAAIRAxEAPwDjUs5ecthtwXqkOKQlzhu1e4B/yq6YBGjPfr4JfbbSy6hopbRrDXm08rG1/n1w8zJvM2/BWXOvQCjL9QQ3K5tlSBvX32PbkeeF0B/KsyzyJCfS7FDr67nNhfFVrFIRQvka6f8Ad0lCZYRJwcgGRvYBWXtFj5euJBfiIkLmxCI7rrjAQp2wsECuYGg0SNvXAHPZ1GpvV4gy5t3QOK1JYJU2vqgGvMByv7HCuYpqLlLuV5i9KmTWZqGx7wFuU2g0aANgb9/5bVeD/EzcclK8wkJBA0pDLoCUhISAPmcvLhh5BdblGYx4iqLI3ssU/OWpnhgQGy6ttttFKLRAXWugfmaUgBY3rv3NykyTociJSlTzjSm3C62qr236f1v9sNmfEmbM5ew2mYotoQG0JKU0lPl2G2MMvNp09t1Mp8rGyfoTy/GAOHMR2VVr8KFxA6tfq9qtyKJHmKbzCTNlNL4K21Mxf3FEi719aBB77DpgM/4bmSVuO5vm5VqVtxCNNqJ0+l16YM6hvKPDhnMtpePD1cF6yi01R2o9e+F6sxfcbaUkR0Ap+n3dtdbnqpJP5ODvap8cuGKIvyV//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAL/xAAtEAABAwMCAwYHAQAAAAAAAAABAgMEAAURBiESQVEHFDFhgbETIzRDYnKRwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAD/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAxIhMf/aAAwDAQACEQMRAD8AbJDrceO488rgbbSVqJ5AbmpBcdWa2u7gmWOE5GtROWlNMh0qHVex9qrV0jGZa5kYEAvMqbGfMEVP+zsyITUS3m4FvjS42lgsZLTg6nHjnrUQ4bBx12HOz3Uzt9jPxp/B3+NgqKduIdccjnam6hMCzpj3x+4vSEPzHI7cd3hbCM4JPGQOZyB6UWoKW9ItzGKOr9e2nTQW044ZU8D6Zo7j9zy9/KpZZtVOyr6/dHGoaC46SUuEIQ3nn5/7SzOR369FyUVOLddUtZJ8Tk1zdozTEtPw04y2g1RWh8jhjKHcdSS7jcBJsnesN4bDzbZ+Ycbr9c4weQFGbZrK5JiJE6QwHs/cj74/qfap/priTGcShxxIW2c4P5VnVqCzvTdA8Jmf/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -784,9 +784,9 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAwEAABBAAEBAMHBQEAAAAAAAABAgMEEQAFEiETMUFRBiKBBxQWIzJhkRUzQnHB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAjEQABBAAEBwAAAAAAAAAAAAABAAIDERMhMaEEEjJhgcHw/9oADAMBAAIRAxEAPwDjUs5ecthtwXqkOKQlzhu1e4B/yq6YBGjPfr4JfbbSy6hopbRrDXm08rG1/n1w8zJvM2/BWXOvQCjL9QQ3K5tlSBvX32PbkeeF0B/KsyzyJCfS7FDr67nNhfFVrFIRQvka6f8Ad0lCZYRJwcgGRvYBWXtFj5euJBfiIkLmxCI7rrjAQp2wsECuYGg0SNvXAHPZ1GpvV4gy5t3QOK1JYJU2vqgGvMByv7HCuYpqLlLuV5i9KmTWZqGx7wFuU2g0aANgb9/5bVeD/EzcclK8wkJBA0pDLoCUhISAPmcvLhh5BdblGYx4iqLI3ssU/OWpnhgQGy6ttttFKLRAXWugfmaUgBY3rv3NykyTociJSlTzjSm3C62qr236f1v9sNmfEmbM5ew2mYotoQG0JKU0lPl2G2MMvNp09t1Mp8rGyfoTy/GAOHMR2VVr8KFxA6tfq9qtyKJHmKbzCTNlNL4K21Mxf3FEi719aBB77DpgM/4bmSVuO5vm5VqVtxCNNqJ0+l16YM6hvKPDhnMtpePD1cF6yi01R2o9e+F6sxfcbaUkR0Ap+n3dtdbnqpJP5ODvap8cuGKIvyV//9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwgABAUG/8QALBAAAQMDAgIJBQAAAAAAAAAAAQIDBAAFEQYhEkEHCBMUFTEyUXEiQkNh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhIv/aAAwDAQACEQMRAD8AllppTzobbSVKJwAOdekc02iK2jvcgh5Qz2aB5VzbA4rxGM0yGm3nXUth5w7IycZ/XzVOaV0gzaYsnvcJuQ+7FbcEyQUrIdP48DdONt8YqXJtZD5LMapXHo3JXmxTHdWBkoBxnFatKfTJGbjuxu3djieUIS6w0riwRx5OSAceQz/KLaepu13J7V4bUyq80poa4Wzoosz8KZPduL7LciQwX+EYd3SBkHHDkfO9SImrI6CbzIvmk7l3pLbaUoi4SwCgbk558+dFkDaxKSU+gYVdYrRFtsEe2zrc649M4izOU46VqUrAIWR9u/EPagunfrKXqX4rLtgLYjF/jV9OVKJHufL0j04zzzQRW6d8CFZ6Z//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMI/8QAJBAAAgEEAQQDAQEAAAAAAAAAAQIDAAQFETEGEiFBIlFxFDL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgQD/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQACAxH/2gAMAwEAAhEDEQA/APS9Zrm9tLRkW6uYYS3+RI4Xf5utNQHURuLLOxPcs4inuPDwt2kxkaPn7A9D78bLbWjjzOmvFpe23B6VzbXUN0jtbyLIFYxkqd6I5FdqV9NwvDiUV4jEDJIyRkaKxmQlQR6+JHj1TSs9BnSEwusiynPYqfJRoLfKXtgUVxu1Kju3rnYPGvH7SV8Bl5Fj3mskjrIZD2zpp9+j8ePzVWFFJPRsPS2QaNEk6gzUZXZMv9AJk40CNaHHoe6sqKKIv//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwgABAUG/8QALBAAAQMDAgIJBQAAAAAAAAAAAQIDBAAFEQYhEkEHCBMUFTEyUXEiQkNh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEERIhIv/aAAwDAQACEQMRAD8AllppTzobbSVKJwAOdekc02iK2jvcgh5Qz2aB5VzbA4rxGM0yGm3nXUth5w7IycZ/XzVOaV0gzaYsnvcJuQ+7FbcEyQUrIdP48DdONt8YqXJtZD5LMapXHo3JXmxTHdWBkoBxnFatKfTJGbjuxu3djieUIS6w0riwRx5OSAceQz/KLaepu13J7V4bUyq80poa4Wzoosz8KZPduL7LciQwX+EYd3SBkHHDkfO9SImrI6CbzIvmk7l3pLbaUoi4SwCgbk558+dFkDaxKSU+gYVdYrRFtsEe2zrc649M4izOU46VqUrAIWR9u/EPagunfrKXqX4rLtgLYjF/jV9OVKJHufL0j04zzzQRW6d8CFZ6Z//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAwEAABBAAEBAMHBQEAAAAAAAABAgMEEQAFEiETMUFRBiKBBxQWIzJhkRUzQnHB4f/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAjEQABBAAEBwAAAAAAAAAAAAABAAIDERMhMaEEEjJhgcHw/9oADAMBAAIRAxEAPwDjUs5ecthtwXqkOKQlzhu1e4B/yq6YBGjPfr4JfbbSy6hopbRrDXm08rG1/n1w8zJvM2/BWXOvQCjL9QQ3K5tlSBvX32PbkeeF0B/KsyzyJCfS7FDr67nNhfFVrFIRQvka6f8Ad0lCZYRJwcgGRvYBWXtFj5euJBfiIkLmxCI7rrjAQp2wsECuYGg0SNvXAHPZ1GpvV4gy5t3QOK1JYJU2vqgGvMByv7HCuYpqLlLuV5i9KmTWZqGx7wFuU2g0aANgb9/5bVeD/EzcclK8wkJBA0pDLoCUhISAPmcvLhh5BdblGYx4iqLI3ssU/OWpnhgQGy6ttttFKLRAXWugfmaUgBY3rv3NykyTociJSlTzjSm3C62qr236f1v9sNmfEmbM5ew2mYotoQG0JKU0lPl2G2MMvNp09t1Mp8rGyfoTy/GAOHMR2VVr8KFxA6tfq9qtyKJHmKbzCTNlNL4K21Mxf3FEi719aBB77DpgM/4bmSVuO5vm5VqVtxCNNqJ0+l16YM6hvKPDhnMtpePD1cF6yi01R2o9e+F6sxfcbaUkR0Ap+n3dtdbnqpJP5ODvap8cuGKIvyV//9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
